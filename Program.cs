@@ -22,7 +22,8 @@ namespace Wordle
 			Console.BackgroundColor = ConsoleColor.Magenta;
 			Console.ForegroundColor = ConsoleColor.White;
             Console.WriteLine("Douglas's Wordle");
-			Console.ResetColor();
+            Console.WriteLine("v0.1");
+            Console.ResetColor();
             Console.WriteLine("1 - Play");
             Console.WriteLine("0 - Exit");
 
